@@ -1,0 +1,10 @@
+# Ignore datasets
+*.csv
+
+# Ignore results
+Results/
+
+# Ignore PDFs
+*.pdf
+
+*.py
